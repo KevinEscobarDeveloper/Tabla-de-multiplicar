@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">A279-E.3.4 Tabla de Multiplicar.</string>
+
+    <string name="op_acerca_de">Acerca De...</string>
+    <string name="op_borrar">Salir</string>
+
+    <string-array name="acerca_de">
+        <item>E3.4 Tabla de multiplicar</item>
+        <item></item>
+        <item>Realizar el ejercicio en base a los tutoriales</item>
+        <item></item>
+        <item>Alumno: Kevin A. Escobar Martínez</item>
+        <item>No. control: 18270279</item>
+        <item>Semestre: septimo </item>
+        <item>Fecha: 30-Noviembre 2021</item>
+        <item>Docente: Octavio A. Ríos Tercero</item>
+    </string-array>
+</resources>
